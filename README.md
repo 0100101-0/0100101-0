@@ -20,11 +20,11 @@
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&name=0100101-0&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131"
-    width="52%"
+    height="250"
   />
   <img
     src="https://github-readme-streak-stats-eight.vercel.app/?user=0100101-0&theme=chartreuse_dark&border=000000&ring=333131&fire=333131&currStreakLabel=333131&sideLabels=333131&currStreakNum=333131&sideNums=333131&dates=333131"
-    width="42%"
+    height="250"
   />
 </p>
   
