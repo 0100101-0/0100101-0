@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=178&color=gray&text=Input%20text"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=178&color=gray&section=header&reversal=false"  />
 </div>
 
 ##
@@ -32,7 +32,7 @@
 </div>
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=285&color=nord&reversal=false&textBg=false&section=footer"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=178&color=gray&section=footer&reversal=false"  />
 </div>
 
 ###
