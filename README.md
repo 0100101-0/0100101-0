@@ -27,6 +27,30 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&utcOffset=0&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
+
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angularjs logo"  />
+</div>
+
+###
   
 </div>
 </div>
