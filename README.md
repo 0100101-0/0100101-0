@@ -6,56 +6,44 @@
 
 ###
 
-<br clear="both">
-
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="69" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="65" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ts" height="69" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="65" alt="typescript logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=angular" height="69" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="65" alt="angularjs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="69" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="65" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="69" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="mysql logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="69" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="65" alt="postgresql logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=git" height="69" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="65" alt="git logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=github" height="69" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="69" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="65" alt="docker logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=c" height="69" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="65" alt="c logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="69" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="65" alt="cplusplus logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=cs" height="69" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="65" alt="csharp logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=linux" height="69" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="65" alt="linux logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=bash" height="69" alt="bash logo"  />
+  <img src="https://skillicons.dev/icons?i=bash" height="65" alt="bash logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="69" alt="neovim logo"  />
+  <img src="https://skillicons.dev/icons?i=neovim" height="65" alt="neovim logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vim" height="69" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=vim" height="65" alt="vim logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="69" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="65" alt="tailwindcss logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=react" height="69" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="65" alt="react logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="69" alt="nextjs logo"  />
-</div>
-
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="65" alt="nextjs logo"  />
 </div>
 
 ###
