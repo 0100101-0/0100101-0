@@ -1,6 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:3d3d3d&height=200&section=header&text=0100101-0&fontSize=40&fontColor=e8e8e8&fontAlignY=35&animation=fadeIn&desc=building+things+in+binary&descAlignY=62&descSize=15&descColor=b0b0b0" width="100%"/>
-</div>
+<p align="center">
+  <img
+    src="./banner.gif"
+    width="100%"
+    alt="Banner"
+  />
+</p>
 
 <div align="center">
 
