@@ -2,6 +2,7 @@
   <img
     src="./banner.gif"
     width="100%"
+    height="180"
     alt="Banner"
   />
 </p>
