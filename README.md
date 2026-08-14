@@ -65,13 +65,17 @@
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/0100101-0/SEU-REPO-1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0100101-0&repo=SEU-REPO-1&theme=chartreuse_dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131&icon_color=333131" /></a>
-  <a href="https://github.com/0100101-0/SEU-REPO-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0100101-0&repo=SEU-REPO-2&theme=chartreuse_dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131&icon_color=333131" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/0100101-0/SEU-REPO-3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0100101-0&repo=SEU-REPO-3&theme=chartreuse_dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131&icon_color=333131" /></a>
-</p>
+<div align="center">
+
+| Projeto | Stack | Acesso |
+|---|---|---|
+| **[Aprumados](https://github.com/0100101-0/Aprumados)**<br><sub>Marketplace de moda angolana</sub> | ![MIT](https://img.shields.io/badge/-MIT-333131?style=flat-square) | ![Privado](https://img.shields.io/badge/-Privado-333131?style=flat-square) |
+| **[aprumados_GO](https://github.com/0100101-0/aprumados_GO)** | ![JavaScript](https://img.shields.io/badge/-JavaScript-333131?style=flat-square&logo=javascript&logoColor=white) | ![Privado](https://img.shields.io/badge/-Privado-333131?style=flat-square) |
+| **[stock](https://github.com/0100101-0/stock)** | ![TypeScript](https://img.shields.io/badge/-TypeScript-333131?style=flat-square&logo=typescript&logoColor=white) | ![Privado](https://img.shields.io/badge/-Privado-333131?style=flat-square) |
+| **[G-10-landingpage](https://github.com/0100101-0/G-10-landingpage)**<br><sub>Landing page oficial do G-10</sub> | ![EJS](https://img.shields.io/badge/-EJS-333131?style=flat-square) ![MIT](https://img.shields.io/badge/-MIT-333131?style=flat-square) | ![Publico](https://img.shields.io/badge/-P%C3%BAblico-333131?style=flat-square) |
+| **[siteg](https://github.com/0100101-0/siteg)** | ![MIT](https://img.shields.io/badge/-MIT-333131?style=flat-square) | ![Publico](https://img.shields.io/badge/-P%C3%BAblico-333131?style=flat-square) |
+
+</div>
 
 <br/>
 
@@ -86,12 +90,12 @@
 </div>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/SEU_HANDLE_CF">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=SEU_HANDLE_CF&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131" />
+  <a href="https://codeforces.com/profile/Palanca-Negra">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131" />
   </a>
 </p>
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=SEU_HANDLE_CF&theme=dark" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Palanca-Negra&theme=dark" />
 </p>
 
 <br/>
