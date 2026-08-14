@@ -4,6 +4,13 @@
 
 <div align="center">
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div>
+
+</div>
+
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=30&pause=1000&color=505050&center=true&vCenter=true&width=820&lines=01001010+01000101+01010011+01010011+01000101;01000011+01001111+01001101+01010000+01001001+01001100+01001001+01001110+01000111;01001111+01001110+01001100+01001001+01001110+01000101)](https://git.io/typing-svg)
 
 </div>
