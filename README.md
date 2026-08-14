@@ -91,11 +91,17 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/Palanca-Negra">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131" height="300" />
   </a>
 </p>
 <p align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Palanca-Negra&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/0100101_0/">
+    <img src="https://leetcard.jacoblin.cool/0100101_0?theme=dark&font=Pixelify%20Sans&ext=heatmap&height=300" />
+  </a>
 </p>
 
 <br/>
