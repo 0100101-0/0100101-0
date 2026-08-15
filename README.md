@@ -31,41 +31,8 @@
   <img align="right" width="380" src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131" />
 
   <a href="https://codeforces.com/profile/Palanca-Negra">
-    <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=64" width="18" height="18"/>
-    <img width="6"/>
-    <img height="20" src="https://img.shields.io/badge/Codeforces-Palanca--Negra-000000?style=flat-square&labelColor=000000&color=000000"/>
+    <img src="./Codeforces_logo.svg" width="500"/>
   </a>
-  <br/><br/>
-  <a href="https://atcoder.jp/users/Palanca-Negra">
-    <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=64" width="18" height="18"/>
-    <img width="6"/>
-    <img height="20" src="https://img.shields.io/badge/AtCoder-Palanca--Negra-000000?style=flat-square&labelColor=000000&color=000000"/>
-  </a>
-  <br/><br/>
-  <a href="https://leetcode.com/0100101_0">
-    <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=64" width="18" height="18"/>
-    <img width="6"/>
-    <img height="20" src="https://img.shields.io/badge/LeetCode-0100101__0-000000?style=flat-square&labelColor=000000&color=000000"/>
-  </a>
-  <br/><br/>
-  <a href="https://www.hackerrank.com/hanck0100101_0">
-    <img src="https://www.google.com/s2/favicons?domain=hackerrank.com&sz=64" width="18" height="18"/>
-    <img width="6"/>
-    <img height="20" src="https://img.shields.io/badge/HackerRank-hanck0100101__0-000000?style=flat-square&labelColor=000000&color=000000"/>
-  </a>
-  <br/><br/>
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/PalancaNegra">
-    <img src="https://www.google.com/s2/favicons?domain=beecrowd.com.br&sz=64" width="18" height="18"/>
-    <img width="6"/>
-    <img height="20" src="https://img.shields.io/badge/beecrowd-PalancaNegra-000000?style=flat-square&labelColor=000000&color=000000"/>
-  </a>
-  <br/><br/>
-  <a href="https://vjudge.net/user/0100101_">
-    <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=64" width="18" height="18"/>
-    <img width="6"/>
-    <img height="20" src="https://img.shields.io/badge/VJudge-0100101__-000000?style=flat-square&labelColor=000000&color=000000"/>
-  </a>
-
 </p>
 <br clear="both"/>
 
