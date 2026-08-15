@@ -26,31 +26,48 @@
 
 <br/>
 
+<p align="left">
 
+  <img align="right" width="380" src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131" />
 
-<p align="center">
   <a href="https://codeforces.com/profile/Palanca-Negra">
-    <img height="42" src="https://img.shields.io/badge/Codeforces-Palanca--Negra-000000?style=for-the-badge&logo=codeforces&logoColor=ffffff&labelColor=000000"/>
+    <img src="https://www.google.com/s2/favicons?domain=codeforces.com&sz=64" width="18" height="18"/>
+    <img width="6"/>
+    <img height="20" src="https://img.shields.io/badge/Codeforces-Palanca--Negra-000000?style=flat-square&labelColor=000000&color=000000"/>
   </a>
+  <br/><br/>
   <a href="https://atcoder.jp/users/Palanca-Negra">
-    <img height="42" src="https://img.shields.io/badge/AtCoder-Palanca--Negra-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI+PGNpcmNsZSBjeD0iMTIiIGN5PSI1LjUiIHI9IjMuMiIvPjxwb2x5Z29uIHBvaW50cz0iMTIsMTAuNSAyMSwyMSAzLDIxIi8+PC9zdmc+&logoColor=ffffff&labelColor=000000"/>
+    <img src="https://www.google.com/s2/favicons?domain=atcoder.jp&sz=64" width="18" height="18"/>
+    <img width="6"/>
+    <img height="20" src="https://img.shields.io/badge/AtCoder-Palanca--Negra-000000?style=flat-square&labelColor=000000&color=000000"/>
   </a>
+  <br/><br/>
   <a href="https://leetcode.com/0100101_0">
-    <img height="42" src="https://img.shields.io/badge/LeetCode-0100101__0-000000?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000000"/>
+    <img src="https://www.google.com/s2/favicons?domain=leetcode.com&sz=64" width="18" height="18"/>
+    <img width="6"/>
+    <img height="20" src="https://img.shields.io/badge/LeetCode-0100101__0-000000?style=flat-square&labelColor=000000&color=000000"/>
   </a>
+  <br/><br/>
   <a href="https://www.hackerrank.com/hanck0100101_0">
-    <img height="42" src="https://img.shields.io/badge/HackerRank-hanck_0100101__0-000000?style=for-the-badge&logo=hackerrank&logoColor=ffffff&labelColor=000000"/>
+    <img src="https://www.google.com/s2/favicons?domain=hackerrank.com&sz=64" width="18" height="18"/>
+    <img width="6"/>
+    <img height="20" src="https://img.shields.io/badge/HackerRank-hanck0100101__0-000000?style=flat-square&labelColor=000000&color=000000"/>
   </a>
+  <br/><br/>
   <a href="https://www.beecrowd.com.br/judge/pt/profile/PalancaNegra">
-    <img height="42" src="https://img.shields.io/badge/beecrowd-PalancaNegra-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTEyIDUuMiAxOC4zIDguOXY3LjJMMTIgMTkuOGwtNi4zLTMuN1Y4Ljl6IiBmaWxsLW9wYWNpdHk9IjAuOSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIuNSIgcj0iMi4yIiBmaWxsPSIjMDAwMDAwIi8+PC9zdmc+&logoColor=ffffff&labelColor=000000"/>
+    <img src="https://www.google.com/s2/favicons?domain=beecrowd.com.br&sz=64" width="18" height="18"/>
+    <img width="6"/>
+    <img height="20" src="https://img.shields.io/badge/beecrowd-PalancaNegra-000000?style=flat-square&labelColor=000000&color=000000"/>
   </a>
+  <br/><br/>
   <a href="https://vjudge.net/user/0100101_">
-    <img height="42" src="https://img.shields.io/badge/VJudge-0100101__-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTIgNGg0LjJsNS44IDEzLjJMMTcuOCA0SDIyTDEzLjYgMjFoLTMuMnoiLz48L3N2Zz4=&logoColor=ffffff&labelColor=000000"/>
+    <img src="https://www.google.com/s2/favicons?domain=vjudge.net&sz=64" width="18" height="18"/>
+    <img width="6"/>
+    <img height="20" src="https://img.shields.io/badge/VJudge-0100101__-000000?style=flat-square&labelColor=000000&color=000000"/>
   </a>
+
 </p>
-
-
-
+<br clear="both"/>
 
 
 
@@ -145,15 +162,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=20&pause=1000&color=707070&center=true&vCenter=true&width=560&repeat=false&lines=COMPETITIVE+PROGRAMMING)](https://git.io/typing-svg)
 
 </div>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Palanca-Negra">
-    <img
-      src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131"
-      height="300"
-    />
-  </a>
-</p>
 
 <p align="center">
   <img
