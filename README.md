@@ -31,9 +31,12 @@
   <img align="right" width="380" src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131" />
 
   <a href="https://codeforces.com/profile/Palanca-Negra">
-    <img src="./Codeforces_logo.svg" width="500"/>
+    <img src="./Codeforces_logo.svg" width="480"/>
   </a>
 </p>
+<br/>
+
+
 <br clear="both"/>
 
 
