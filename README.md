@@ -28,12 +28,12 @@
 
 
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<p width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
 <td align="left" valign="bottom" style="padding-right: 80px;">
 <a href="https://codeforces.com/profile/Palanca-Negra">
-<img src="./Codeforces_logo.svg" width="440" alt="Codeforces" />
+<img src="./free-code-forces-logo-icon-svg-download-png-2944796.png" width="340" alt="Codeforces" />
 </a>
 </td>
 
@@ -46,7 +46,7 @@
 </td>
 
 </tr>
-</table>
+</p>
 
 <br/>
 
