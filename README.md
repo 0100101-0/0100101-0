@@ -24,22 +24,48 @@
 </div>
 
 
+
+
+
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+
+<td align="left" valign="bottom" style="padding-right: 80px;">
+<a href="https://codeforces.com/profile/Palanca-Negra">
+<img src="./Codeforces_logo.svg" width="440" alt="Codeforces" />
+</a>
+</td>
+
+<td align="right" valign="bottom">
+<img
+  width="380"
+  src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131"
+  alt="Codeforces statistics"
+/>
+</td>
+
+</tr>
+</table>
+
 <br/>
 
-<p align="left">
 
-  <img align="right" width="380" src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131" />
 
-</p>
 
-<br clear="both"/>
 
-<p align="left">
-  <a href="https://codeforces.com/profile/Palanca-Negra">
-    <img src="./Codeforces_logo.svg" width="440" top="-100"/>
-  </a>
-</p>
-<br/>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br clear="both"/>
