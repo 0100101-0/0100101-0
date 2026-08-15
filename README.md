@@ -7,12 +7,15 @@
   />
 </p>
 
-<div align="center">
-
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" /></div>
-
-</div>
-
+<!-- GitHub animated logo -->
+<p align="right">
+  <img
+    src="https://techstack-generator.vercel.app/github-icon.svg"
+    alt="GitHub"
+    width="100"
+    height="100"
+  />
+</p>
 
 <div align="center">
 
@@ -20,15 +23,43 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0100101-0&label=views&color=333131&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/0100101-0?label=followers&style=flat-square&color=333131&labelColor=000000" alt="followers" />
-</p>
 
 <br/>
 
+
+
+<p align="center">
+  <a href="https://codeforces.com/profile/Palanca-Negra">
+    <img height="42" src="https://img.shields.io/badge/Codeforces-Palanca--Negra-000000?style=for-the-badge&logo=codeforces&logoColor=ffffff&labelColor=000000"/>
+  </a>
+  <a href="https://atcoder.jp/users/Palanca-Negra">
+    <img height="42" src="https://img.shields.io/badge/AtCoder-Palanca--Negra-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI+PGNpcmNsZSBjeD0iMTIiIGN5PSI1LjUiIHI9IjMuMiIvPjxwb2x5Z29uIHBvaW50cz0iMTIsMTAuNSAyMSwyMSAzLDIxIi8+PC9zdmc+&logoColor=ffffff&labelColor=000000"/>
+  </a>
+  <a href="https://leetcode.com/0100101_0">
+    <img height="42" src="https://img.shields.io/badge/LeetCode-0100101__0-000000?style=for-the-badge&logo=leetcode&logoColor=ffffff&labelColor=000000"/>
+  </a>
+  <a href="https://www.hackerrank.com/hanck0100101_0">
+    <img height="42" src="https://img.shields.io/badge/HackerRank-hanck_0100101__0-000000?style=for-the-badge&logo=hackerrank&logoColor=ffffff&labelColor=000000"/>
+  </a>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/PalancaNegra">
+    <img height="42" src="https://img.shields.io/badge/beecrowd-PalancaNegra-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTEyIDUuMiAxOC4zIDguOXY3LjJMMTIgMTkuOGwtNi4zLTMuN1Y4Ljl6IiBmaWxsLW9wYWNpdHk9IjAuOSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIuNSIgcj0iMi4yIiBmaWxsPSIjMDAwMDAwIi8+PC9zdmc+&logoColor=ffffff&labelColor=000000"/>
+  </a>
+  <a href="https://vjudge.net/user/0100101_">
+    <img height="42" src="https://img.shields.io/badge/VJudge-0100101__-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI0ZGRkZGRiI+PHBhdGggZD0iTTIgNGg0LjJsNS44IDEzLjJMMTcuOCA0SDIyTDEzLjYgMjFoLTMuMnoiLz48L3N2Zz4=&logoColor=ffffff&labelColor=000000"/>
+  </a>
+</p>
+
+
+
+
+
+
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:3d3d3d&height=4" width="70%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:3d3d3d&height=4"
+    width="70%"
+  />
 </div>
 
 <div align="center">
@@ -51,24 +82,35 @@
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&utcOffset=0&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0100101-0&theme=gitdimmed&no-frame=true&column=-1&margin-w=10&margin-h=10" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=0100101-0&theme=gitdimmed&no-frame=true&column=-1&margin-w=10&margin-h=10"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0100101-0&bg_color=000000&color=b5b5b5&line=505050&point=e8e8e8&area=true&area_color=333131&hide_border=true&title_color=505050" width="95%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=0100101-0&bg_color=000000&color=b5b5b5&line=505050&point=e8e8e8&area=true&area_color=333131&hide_border=true&title_color=505050"
+    width="95%"
+  />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:3d3d3d&height=4" width="70%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:3d3d3d&height=4"
+    width="70%"
+  />
 </div>
 
 <div align="center">
@@ -92,7 +134,10 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:3d3d3d&height=4" width="70%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:3d3d3d&height=4"
+    width="70%"
+  />
 </div>
 
 <div align="center">
@@ -103,23 +148,34 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/Palanca-Negra">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131" height="300" />
+    <img
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131"
+      height="300"
+    />
   </a>
 </p>
+
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=Palanca-Negra&theme=dark" />
+  <img
+    src="https://codeforces-readme-stats.vercel.app/api/badge?username=Palanca-Negra&theme=dark"
+  />
 </p>
 
 <p align="center">
   <a href="https://leetcode.com/0100101_0/">
-    <img src="https://leetcard.jacoblin.cool/0100101_0?theme=dark&font=Pixelify%20Sans&ext=heatmap&height=300" />
+    <img
+      src="https://leetcard.jacoblin.cool/0100101_0?theme=dark&font=Pixelify%20Sans&ext=heatmap&height=300"
+    />
   </a>
 </p>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:3d3d3d&height=4" width="70%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:3d3d3d&height=4"
+    width="70%"
+  />
 </div>
 
 <div align="center">
@@ -128,45 +184,107 @@
 
 </div>
 
-<h4 align="center">💻 Linguagens</h4>
+<h4 align="center">Linguagens</h4>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="cplusplus logo"  />
+  <img
+    src="https://skillicons.dev/icons?i=cpp"
+    height="45"
+    alt="C++"
+  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img
+    src="https://skillicons.dev/icons?i=js"
+    height="45"
+    alt="JavaScript"
+  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img
+    src="https://skillicons.dev/icons?i=ts"
+    height="45"
+    alt="TypeScript"
+  />
 </div>
 
-<h4 align="center">🧩 Frameworks & Bibliotecas</h4>
+<h4 align="center">Frameworks & Bibliotecas</h4>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img
+    src="https://skillicons.dev/icons?i=react"
+    height="45"
+    alt="React"
+  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="nodejs logo"  />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs"
+    height="45"
+    alt="Node.js"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angularjs logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
+    height="45"
+    alt="Angular"
+  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
+  <img
+    src="https://skillicons.dev/icons?i=tailwind"
+    height="45"
+    alt="Tailwind CSS"
+  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
+  <img
+    src="https://skillicons.dev/icons?i=bootstrap"
+    height="45"
+    alt="Bootstrap"
+  />
 </div>
 
-<h4 align="center">🛠️ Ferramentas & Sistemas</h4>
+<h4 align="center">Ferramentas & Sistemas</h4>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="linux logo"  />
+  <img
+    src="https://skillicons.dev/icons?i=linux"
+    height="45"
+    alt="Linux"
+  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg" height="45" alt="archlinux logo" />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg"
+    height="45"
+    alt="Arch Linux"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+    height="45"
+    alt="Bash"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="45" alt="vim logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"
+    height="45"
+    alt="Vim"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="45" alt="gcc logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg"
+    height="45"
+    alt="GCC"
+  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="45" alt="arduino logo"  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"
+    height="45"
+    alt="Arduino"
+  />
 </div>
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:3d3d3d&height=180&section=footer&reversal=false&text=EOF&fontSize=26&fontColor=8a8a8a&fontAlignY=80&animation=fadeIn" width="100%"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:3d3d3d&height=180&section=footer&reversal=false&text=EOF&fontSize=26&fontColor=8a8a8a&fontAlignY=80&animation=fadeIn"
+    width="100%"
+  />
 </div>
