@@ -28,7 +28,7 @@
 
 
 
-<p width="100%" cellspacing="0" cellpadding="0" border="0">
+<p width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
 <tr>
 
 <td align="left" valign="bottom" style="padding-right: 80px;">
