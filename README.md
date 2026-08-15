@@ -36,7 +36,7 @@
 
 <p align="left">
   <a href="https://codeforces.com/profile/Palanca-Negra">
-    <img src="./Codeforces_logo.svg" width="440"/>
+    <img src="./Codeforces_logo.svg" width="440" top="100"/>
   </a>
 </p>
 <br/>
