@@ -23,55 +23,25 @@
 
 </div>
 
+<br/>
 
-
-
-
-
-<p width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
-<tr>
-
-<td align="left" valign="bottom" style="padding-right: 80px;">
-<a href="https://codeforces.com/profile/Palanca-Negra">
-<img src="./free-code-forces-logo-icon-svg-download-png-2944796.png" width="340" alt="Codeforces" />
-</a>
-</td>
-
-<td align="right" valign="bottom">
-<img
-  width="380"
-  src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131"
-  alt="Codeforces statistics"
-/>
-</td>
-
-</tr>
+<p align="center">
+  <a href="https://codeforces.com/profile/Palanca-Negra">
+    <img
+      src="./free-code-forces-logo-icon-svg-download-png-2944796.png"
+      width="340"
+      alt="Codeforces"
+    />
+  </a>
+  <img width="60" height="1" />
+  <img
+    width="380"
+    src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131"
+    alt="Codeforces statistics"
+  />
 </p>
 
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br clear="both"/>
-
-
-
 
 <div align="center">
   <img
