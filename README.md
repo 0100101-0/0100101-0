@@ -1,3 +1,5 @@
+<p align="center"> <img src="./banner.gif" width="100%" height="180" alt="Banner" /> </p> 
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="151" src="https://i.imgur.com/QCZKf8Y.png"  />
 </div>
