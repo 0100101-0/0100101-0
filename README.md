@@ -26,16 +26,13 @@
 <br/>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/Palanca-Negra">
-    <img
-      src="./free-code-forces-logo-icon-svg-download-png-2944796.png"
-      width="340"
-      alt="Codeforces"
-    />
-  </a>
-  <img width="60" height="1" />
   <img
-    width="380"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131"
+    height="200"
+  />
+  &emsp;&emsp;&emsp;&emsp;
+  <img
+    height="200"
     src="https://codeforces-readme-stats.vercel.app/api/card?username=Palanca-Negra&theme=dark&bg_color=000000&title_color=333131&text_color=b5b5b5&border_color=333131"
     alt="Codeforces statistics"
   />
@@ -72,8 +69,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0100101-0&theme=chartreuse_dark&animation=draw&duration=5&utcOffset=0&title_color=333131&bg_color=000000&border_color=333131&icon_color=333131&chart_color=333131)
 
